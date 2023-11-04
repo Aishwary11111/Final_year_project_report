@@ -1,0 +1,752 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.4.20)  4 NOV 2023 19:38
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/Final Year Proj/Report/Final_year_project_report/Research_paper/conference_101719.tex"
+(d:/Final Year Proj/Report/Final_year_project_report/Research_paper/conference_101719.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30> (IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen140
+\@IEEEtrantmpdimenB=\dimen141
+\@IEEEtrantmpdimenC=\dimen142
+\@IEEEtrantmpcountA=\count185
+\@IEEEtrantmpcountB=\count186
+\@IEEEtrantmpcountC=\count187
+\@IEEEtrantmptoksA=\toks16
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen143
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen144
+\CLASSINFOnormalsizeunitybaselineskip=\dimen145
+\IEEEnormaljot=\dimen146
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen147
+\IEEEquantizedlengthdiff=\dimen148
+\IEEEquantizedtextheightdiff=\dimen149
+\IEEEilabelindentA=\dimen150
+\IEEEilabelindentB=\dimen151
+\IEEEilabelindent=\dimen152
+\IEEEelabelindent=\dimen153
+\IEEEdlabelindent=\dimen154
+\IEEElabelindent=\dimen155
+\IEEEiednormlabelsep=\dimen156
+\IEEEiedmathlabelsep=\dimen157
+\IEEEiedtopsep=\skip48
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@IEEEsubequation=\count192
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\c@figure=\count193
+\c@table=\count194
+\@IEEEeqnnumcols=\count195
+\@IEEEeqncolcnt=\count196
+\@IEEEsubeqnnumrollback=\count197
+\@IEEEquantizeheightA=\dimen158
+\@IEEEquantizeheightB=\dimen159
+\@IEEEquantizeheightC=\dimen160
+\@IEEEquantizeprevdepth=\dimen161
+\@IEEEquantizemultiple=\count198
+\@IEEEquantizeboxA=\box51
+\@IEEEtmpitemindent=\dimen162
+\IEEEPARstartletwidth=\dimen163
+\c@IEEEbiography=\count199
+\@IEEEtranrubishbin=\box52
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen164
+)) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count266
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count267
+\leftroot@=\count268
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count269
+\DOTSCASE@=\count270
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count271
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count272
+\dotsspace@=\muskip16
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
+\tag@help=\toks18
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
+\andhelp@=\toks19
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks20
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+\c@ALC@unique=\count278
+\c@ALC@line=\count279
+\c@ALC@rem=\count280
+\c@ALC@depth=\count281
+\ALC@tlm=\skip54
+\algorithmicindent=\skip55
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen173
+\Gin@req@width=\dimen174
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tabularray\tabularray.sty (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-03-30 L3 programming layer (loader) 
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count282
+\l__pdf_internal_box=\box55
+))
+Package: tabularray 2023-03-01 v2023A Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count283
+\l__tblr_c_int=\count284
+\l__tblr_r_int=\count285
+\l__tblr_d_dim=\dimen175
+\l__tblr_h_dim=\dimen176
+\l__tblr_o_dim=\dimen177
+\l__tblr_p_dim=\dimen178
+\l__tblr_q_dim=\dimen179
+\l__tblr_r_dim=\dimen180
+\l__tblr_s_dim=\dimen181
+\l__tblr_t_dim=\dimen182
+\l__tblr_v_dim=\dimen183
+\l__tblr_w_dim=\dimen184
+\l__tblr_a_box=\box56
+\l__tblr_b_box=\box57
+\l__tblr_c_box=\box58
+\l__tblr_d_box=\box59
+\g__tblr_table_count_int=\count286
+\c@rownum=\count287
+\c@colnum=\count288
+\c@rowcount=\count289
+\c@colcount=\count290
+\abovesep=\dimen185
+\belowsep=\dimen186
+\leftsep=\dimen187
+\rightsep=\dimen188
+\g_tblr_level_int=\count291
+\g__tblr_data_row_key_count_int=\count292
+\g__tblr_data_column_key_count_int=\count293
+\g__tblr_data_cell_key_count_int=\count294
+\g__tblr_array_int=\count295
+\l__tblr_key_count_int=\count296
+\l__tblr_key_quotient_int=\count297
+\l__tblr_key_quotient_two_int=\count298
+\l__tblr_key_remainder_int=\count299
+\g__tblr_data_str_value_count_int=\count300
+\rulewidth=\dimen189
+\l__tblr_strut_dp_dim=\dimen190
+\l__tblr_strut_ht_dim=\dimen191
+\g__tblr_cell_wd_dim=\dimen192
+\g__tblr_cell_ht_dim=\dimen193
+\g__tblr_cell_head_dim=\dimen194
+\g__tblr_cell_foot_dim=\dimen195
+\l__column_target_dim=\dimen196
+\l__tblr_caption_box=\box60
+\l__tblr_caption_left_box=\box61
+\l__tblr_row_head_box=\box62
+\l__tblr_row_foot_box=\box63
+\l__tblr_row_head_foot_dim=\dimen197
+\tablewidth=\dimen198
+\l__tblr_table_firsthead_box=\box64
+\l__tblr_table_middlehead_box=\box65
+\l__tblr_table_lasthead_box=\box66
+\l__tblr_table_firstfoot_box=\box67
+\l__tblr_table_middlefoot_box=\box68
+\l__tblr_table_lastfoot_box=\box69
+\l__tblr_remain_height_dim=\dimen199
+\l__tblr_long_from_int=\count301
+\l__tblr_long_to_int=\count302
+\l__tblr_curr_i_int=\count303
+\l__tblr_prev_i_int=\count304
+\l__tblr_table_page_int=\count305
+\l__tblr_table_head_box=\box70
+\l__tblr_table_foot_box=\box71
+\l__tblr_table_head_foot_dim=\dimen256
+\l__tblr_table_head_body_foot_dim=\dimen257
+\l__tblr_table_box=\box72
+\l__tblr_table_hlines_box=\box73
+\l__tblr_hline_box=\box74
+\l__tblr_row_box=\box75
+\l__tblr_col_o_wd_dim=\dimen258
+\l__tblr_col_b_wd_dim=\dimen259
+\l__tblr_hline_leftskip_dim=\dimen260
+\l__tblr_hline_rightskip_dim=\dimen261
+\l__tblr_row_ht_dim=\dimen262
+\l__tblr_row_dp_dim=\dimen263
+\l__tblr_row_abovesep_dim=\dimen264
+\l__tblr_row_belowsep_dim=\dimen265
+\l__tblr_row_vlines_box=\box76
+\l__tblr_vline_box=\box77
+\l__tblr_cell_box=\box78
+\l__row_upper_dim=\dimen266
+\l__row_lower_dim=\dimen267
+\l__row_vpace_dim=\dimen268
+\l__tblr_vline_aboveskip_dim=\dimen269
+\l__tblr_vline_belowskip_dim=\dimen270
+\l__tblr_cell_wd_dim=\dimen271
+\l__tblr_cell_ht_dim=\dimen272
+\l__tblr_diag_box=\box79
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip56
+\multirow@cntb=\count306
+\multirow@dima=\skip57
+\bigstrutjot=\dimen273
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count307
+\mult@box=\box80
+\multicol@leftmargin=\dimen274
+\c@unbalance=\count308
+\c@collectmore=\count309
+\doublecol@number=\count310
+\multicoltolerance=\count311
+\multicolpretolerance=\count312
+\full@width=\dimen275
+\page@free=\dimen276
+\premulticols=\dimen277
+\postmulticols=\dimen278
+\multicolsep=\skip58
+\multicolbaselineskip=\skip59
+\partial@page=\box81
+\last@line=\box82
+\maxbalancingoverflow=\dimen279
+\mult@rightbox=\box83
+\mult@grightbox=\box84
+\mult@firstbox=\box85
+\mult@gfirstbox=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\c@minrows=\count313
+\c@columnbadness=\count314
+\c@finalcolumnbadness=\count315
+\last@try=\dimen280
+\multicolovershoot=\dimen281
+\multicolundershoot=\dimen282
+\mult@nat@firstbox=\box123
+\colbreak@box=\box124
+\mc@col@check@num=\count316
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/preprint\balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen283
+) (conference_101719.aux)
+\openout1 = `conference_101719.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+-- Lines per column: 56 (exact).
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count317
+\scratchdimen=\dimen284
+\scratchbox=\box125
+\nofMPsegments=\count318
+\nofMParguments=\count319
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count320
+\MPscratchDim=\dimen285
+\MPnumerator=\count321
+\makeMPintoPDFobject=\count322
+\everyMPtoPDFconversion=\toks24
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/ninecolors\ninecolors.sty
+Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2023-02-02 L3 Experimental document command parser
+))
+
+LaTeX Warning: No \author given.
+
+
+LaTeX Warning: No \author given.
+
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
+
+
+]
+<1_fff.drawio.png, id=11, 1528.71124pt x 327.2225pt>
+File: 1_fff.drawio.png Graphic file (type png)
+<use 1_fff.drawio.png>
+Package pdftex.def Info: 1_fff.drawio.png  used on input line 174.
+(pdftex.def)             Requested size: 510.84283pt x 109.34685pt.
+ [2]
+<2.drawio (4).png, id=18, 1369.115pt x 400.49625pt>
+File: 2.drawio (4).png Graphic file (type png)
+<use 2.drawio (4).png>
+Package pdftex.def Info: 2.drawio (4).png  used on input line 185.
+(pdftex.def)             Requested size: 258.0pt x 75.46564pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 185--186
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<fi.drawio (2).png, id=19, 749.80125pt x 282.05376pt>
+File: fi.drawio (2).png Graphic file (type png)
+<use fi.drawio (2).png>
+Package pdftex.def Info: fi.drawio (2).png  used on input line 196.
+(pdftex.def)             Requested size: 258.0pt x 97.05042pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 196--197
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<4.drawio_fff.png, id=20, 954.56625pt x 324.21124pt>
+File: 4.drawio_fff.png Graphic file (type png)
+<use 4.drawio_fff.png>
+Package pdftex.def Info: 4.drawio_fff.png  used on input line 205.
+(pdftex.def)             Requested size: 258.0pt x 87.62724pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 205--206
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/520/520_box.png, id=21, 168.63pt x 171.64125pt>
+File: Figures/520/520_box.png Graphic file (type png)
+<use Figures/520/520_box.png>
+Package pdftex.def Info: Figures/520/520_box.png  used on input line 250.
+(pdftex.def)             Requested size: 123.84283pt x 126.05656pt.
+<Figures/520/520_bicubic.jpg, id=22, 100.375pt x 100.375pt>
+File: Figures/520/520_bicubic.jpg Graphic file (type jpg)
+<use Figures/520/520_bicubic.jpg>
+Package pdftex.def Info: Figures/520/520_bicubic.jpg  used on input line 255.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/520/520_Bicubical_ssim.jpg, id=23, 100.375pt x 100.375pt>
+File: Figures/520/520_Bicubical_ssim.jpg Graphic file (type jpg)
+<use Figures/520/520_Bicubical_ssim.jpg>
+Package pdftex.def Info: Figures/520/520_Bicubical_ssim.jpg  used on input line 258.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/520/520_SRGAN.jpg, id=24, 100.375pt x 100.375pt>
+File: Figures/520/520_SRGAN.jpg Graphic file (type jpg)
+<use Figures/520/520_SRGAN.jpg>
+Package pdftex.def Info: Figures/520/520_SRGAN.jpg  used on input line 263.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/520/520_SRGAN_ssim.jpg, id=25, 100.375pt x 100.375pt>
+File: Figures/520/520_SRGAN_ssim.jpg Graphic file (type jpg)
+<use Figures/520/520_SRGAN_ssim.jpg>
+Package pdftex.def Info: Figures/520/520_SRGAN_ssim.jpg  used on input line 266.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/520/520_cycleGAN.jpg, id=26, 100.375pt x 100.375pt>
+File: Figures/520/520_cycleGAN.jpg Graphic file (type jpg)
+<use Figures/520/520_cycleGAN.jpg>
+Package pdftex.def Info: Figures/520/520_cycleGAN.jpg  used on input line 271.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/520/520_cycleGAN_ssim.jpg, id=27, 100.375pt x 100.375pt>
+File: Figures/520/520_cycleGAN_ssim.jpg Graphic file (type jpg)
+<use Figures/520/520_cycleGAN_ssim.jpg>
+Package pdftex.def Info: Figures/520/520_cycleGAN_ssim.jpg  used on input line 274.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/520/520_Densenet.jpg, id=28, 100.375pt x 100.375pt>
+File: Figures/520/520_Densenet.jpg Graphic file (type jpg)
+<use Figures/520/520_Densenet.jpg>
+Package pdftex.def Info: Figures/520/520_Densenet.jpg  used on input line 279.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/520/520_DenseNet__ssim.jpg, id=29, 100.375pt x 100.375pt>
+File: Figures/520/520_DenseNet__ssim.jpg Graphic file (type jpg)
+<use Figures/520/520_DenseNet__ssim.jpg>
+Package pdftex.def Info: Figures/520/520_DenseNet__ssim.jpg  used on input line 282.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/520/520_RCAN.jpg, id=30, 100.375pt x 100.375pt>
+File: Figures/520/520_RCAN.jpg Graphic file (type jpg)
+<use Figures/520/520_RCAN.jpg>
+Package pdftex.def Info: Figures/520/520_RCAN.jpg  used on input line 287.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/520/520_RCAN_ssim.jpg, id=31, 100.375pt x 100.375pt>
+File: Figures/520/520_RCAN_ssim.jpg Graphic file (type jpg)
+<use Figures/520/520_RCAN_ssim.jpg>
+Package pdftex.def Info: Figures/520/520_RCAN_ssim.jpg  used on input line 290.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/520/520_proposed.jpg, id=32, 100.375pt x 100.375pt>
+File: Figures/520/520_proposed.jpg Graphic file (type jpg)
+<use Figures/520/520_proposed.jpg>
+Package pdftex.def Info: Figures/520/520_proposed.jpg  used on input line 295.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/520/520_proposed_ssim.jpg, id=33, 100.375pt x 100.375pt>
+File: Figures/520/520_proposed_ssim.jpg Graphic file (type jpg)
+<use Figures/520/520_proposed_ssim.jpg>
+Package pdftex.def Info: Figures/520/520_proposed_ssim.jpg  used on input line 298.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/906/906_border.png, id=34, 168.63pt x 168.63pt>
+File: Figures/906/906_border.png Graphic file (type png)
+<use Figures/906/906_border.png>
+Package pdftex.def Info: Figures/906/906_border.png  used on input line 305.
+(pdftex.def)             Requested size: 123.84283pt x 123.84506pt.
+<Figures/906/906_Bicubical.jpg, id=35, 100.375pt x 100.375pt>
+File: Figures/906/906_Bicubical.jpg Graphic file (type jpg)
+<use Figures/906/906_Bicubical.jpg>
+Package pdftex.def Info: Figures/906/906_Bicubical.jpg  used on input line 310.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/906/906_Bicubical_ssim.jpg, id=36, 100.375pt x 100.375pt>
+File: Figures/906/906_Bicubical_ssim.jpg Graphic file (type jpg)
+<use Figures/906/906_Bicubical_ssim.jpg>
+Package pdftex.def Info: Figures/906/906_Bicubical_ssim.jpg  used on input line 313.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/906/906_SRGAN.jpg, id=37, 100.375pt x 100.375pt>
+File: Figures/906/906_SRGAN.jpg Graphic file (type jpg)
+<use Figures/906/906_SRGAN.jpg>
+Package pdftex.def Info: Figures/906/906_SRGAN.jpg  used on input line 318.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/906/906_SRGAN_ssim.jpg, id=38, 100.375pt x 100.375pt>
+File: Figures/906/906_SRGAN_ssim.jpg Graphic file (type jpg)
+<use Figures/906/906_SRGAN_ssim.jpg>
+Package pdftex.def Info: Figures/906/906_SRGAN_ssim.jpg  used on input line 321.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/906/906_cycleGAN.jpg, id=39, 100.375pt x 100.375pt>
+File: Figures/906/906_cycleGAN.jpg Graphic file (type jpg)
+<use Figures/906/906_cycleGAN.jpg>
+Package pdftex.def Info: Figures/906/906_cycleGAN.jpg  used on input line 326.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/906/906_cycleGAN_ssim.jpg, id=40, 100.375pt x 100.375pt>
+File: Figures/906/906_cycleGAN_ssim.jpg Graphic file (type jpg)
+<use Figures/906/906_cycleGAN_ssim.jpg>
+Package pdftex.def Info: Figures/906/906_cycleGAN_ssim.jpg  used on input line 329.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/906/906_Densenet.jpg, id=41, 100.375pt x 100.375pt>
+File: Figures/906/906_Densenet.jpg Graphic file (type jpg)
+<use Figures/906/906_Densenet.jpg>
+Package pdftex.def Info: Figures/906/906_Densenet.jpg  used on input line 334.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/906/906_densenet_ssim.jpg, id=42, 100.375pt x 100.375pt>
+File: Figures/906/906_densenet_ssim.jpg Graphic file (type jpg)
+<use Figures/906/906_densenet_ssim.jpg>
+Package pdftex.def Info: Figures/906/906_densenet_ssim.jpg  used on input line 337.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/906/906_RCAN.jpg, id=43, 100.375pt x 100.375pt>
+File: Figures/906/906_RCAN.jpg Graphic file (type jpg)
+<use Figures/906/906_RCAN.jpg>
+Package pdftex.def Info: Figures/906/906_RCAN.jpg  used on input line 342.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/906/906_RCAN_ssim.jpg, id=44, 100.375pt x 100.375pt>
+File: Figures/906/906_RCAN_ssim.jpg Graphic file (type jpg)
+<use Figures/906/906_RCAN_ssim.jpg>
+Package pdftex.def Info: Figures/906/906_RCAN_ssim.jpg  used on input line 345.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/906/906_proposed.jpg, id=45, 100.375pt x 100.375pt>
+File: Figures/906/906_proposed.jpg Graphic file (type jpg)
+<use Figures/906/906_proposed.jpg>
+Package pdftex.def Info: Figures/906/906_proposed.jpg  used on input line 350.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/906/906_proposed_ssim.jpg, id=46, 100.375pt x 100.375pt>
+File: Figures/906/906_proposed_ssim.jpg Graphic file (type jpg)
+<use Figures/906/906_proposed_ssim.jpg>
+Package pdftex.def Info: Figures/906/906_proposed_ssim.jpg  used on input line 353.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/983/983_box.png, id=47, 168.63pt x 168.63pt>
+File: Figures/983/983_box.png Graphic file (type png)
+<use Figures/983/983_box.png>
+Package pdftex.def Info: Figures/983/983_box.png  used on input line 360.
+(pdftex.def)             Requested size: 123.84283pt x 123.84506pt.
+<Figures/983/983_Bicubical.jpg, id=48, 100.375pt x 100.375pt>
+File: Figures/983/983_Bicubical.jpg Graphic file (type jpg)
+<use Figures/983/983_Bicubical.jpg>
+Package pdftex.def Info: Figures/983/983_Bicubical.jpg  used on input line 365.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/983/983_Bicubic__ssim.jpg, id=49, 100.375pt x 100.375pt>
+File: Figures/983/983_Bicubic__ssim.jpg Graphic file (type jpg)
+<use Figures/983/983_Bicubic__ssim.jpg>
+Package pdftex.def Info: Figures/983/983_Bicubic__ssim.jpg  used on input line 368.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/983/983_SRGAN.jpg, id=50, 100.375pt x 100.375pt>
+File: Figures/983/983_SRGAN.jpg Graphic file (type jpg)
+<use Figures/983/983_SRGAN.jpg>
+Package pdftex.def Info: Figures/983/983_SRGAN.jpg  used on input line 373.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/983/983_SRGAN__ssim.jpg, id=51, 100.375pt x 100.375pt>
+File: Figures/983/983_SRGAN__ssim.jpg Graphic file (type jpg)
+<use Figures/983/983_SRGAN__ssim.jpg>
+Package pdftex.def Info: Figures/983/983_SRGAN__ssim.jpg  used on input line 376.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/983/983_cycleGAN.jpg, id=52, 100.375pt x 100.375pt>
+File: Figures/983/983_cycleGAN.jpg Graphic file (type jpg)
+<use Figures/983/983_cycleGAN.jpg>
+Package pdftex.def Info: Figures/983/983_cycleGAN.jpg  used on input line 381.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/983/983_cycleGAN_ssim.jpg, id=53, 100.375pt x 100.375pt>
+File: Figures/983/983_cycleGAN_ssim.jpg Graphic file (type jpg)
+<use Figures/983/983_cycleGAN_ssim.jpg>
+Package pdftex.def Info: Figures/983/983_cycleGAN_ssim.jpg  used on input line 384.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/983/983_DenseNet.jpg, id=54, 100.375pt x 100.375pt>
+File: Figures/983/983_DenseNet.jpg Graphic file (type jpg)
+<use Figures/983/983_DenseNet.jpg>
+Package pdftex.def Info: Figures/983/983_DenseNet.jpg  used on input line 389.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/983/983_densenet_ssim.jpg, id=55, 100.375pt x 100.375pt>
+File: Figures/983/983_densenet_ssim.jpg Graphic file (type jpg)
+<use Figures/983/983_densenet_ssim.jpg>
+Package pdftex.def Info: Figures/983/983_densenet_ssim.jpg  used on input line 392.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/983/983_RCAN.jpg, id=56, 100.375pt x 100.375pt>
+File: Figures/983/983_RCAN.jpg Graphic file (type jpg)
+<use Figures/983/983_RCAN.jpg>
+Package pdftex.def Info: Figures/983/983_RCAN.jpg  used on input line 397.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/983/983_RCAN_ssim.jpg, id=57, 100.375pt x 100.375pt>
+File: Figures/983/983_RCAN_ssim.jpg Graphic file (type jpg)
+<use Figures/983/983_RCAN_ssim.jpg>
+Package pdftex.def Info: Figures/983/983_RCAN_ssim.jpg  used on input line 400.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/983/983_proposed.jpg, id=58, 100.375pt x 100.375pt>
+File: Figures/983/983_proposed.jpg Graphic file (type jpg)
+<use Figures/983/983_proposed.jpg>
+Package pdftex.def Info: Figures/983/983_proposed.jpg  used on input line 405.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+<Figures/983/983_proposed_ssim.jpg, id=59, 100.375pt x 100.375pt>
+File: Figures/983/983_proposed_ssim.jpg Graphic file (type jpg)
+<use Figures/983/983_proposed_ssim.jpg>
+Package pdftex.def Info: Figures/983/983_proposed_ssim.jpg  used on input line 408.
+(pdftex.def)             Requested size: 61.91748pt x 61.9194pt.
+[3] [4 <./1_fff.drawio.png> <./2.drawio (4).png> <./fi.drawio (2).png> <./4.drawio_fff.png>]
+Overfull \hbox (0.85081pt too wide) in paragraph at lines 476--489
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./Figures/520/520_box.png> <./Figures/520/520_bicubic.jpg> <./Figures/520/520_Bicubical_ssim.jpg> <./Figures/520/520_SRGAN.jpg> <./Figures/520/520_SRGAN_ssim.jpg> <./Figures/520/520_cycleGAN.jpg> <./Figures/520/520_cycleGAN_ssim.jpg> <./Figures/520/520_Densenet.jpg> <./Figures/520/520_DenseNet__ssim.jpg> <./Figures/520/520_RCAN.jpg> <./Figures/520/520_RCAN_ssim.jpg> <./Figures/520/520_proposed.jpg> <./Figures/520/520_proposed_ssim.jpg> <./Figures/906/906_border.png> <./Figures/906/906_Bicubical.jpg> <./Figures/906/906_Bicubical_ssim.jpg> <./Figures/906/906_SRGAN.jpg> <./Figures/906/906_SRGAN_ssim.jpg> <./Figures/906/906_cycleGAN.jpg> <./Figures/906/906_cycleGAN_ssim.jpg> <./Figures/906/906_Densenet.jpg> <./Figures/906/906_densenet_ssim.jpg> <./Figures/906/906_RCAN.jpg> <./Figures/906/906_RCAN_ssim.jpg> <./Figures/906/906_proposed.jpg> <./Figures/906/906_proposed_ssim.jpg> <./Figures/983/983_box.png> <./Figures/983/983_Bicubical.jpg> <./Figures/983/983_Bicubic__ssim.jpg> <./Figures/983/983_SRGAN.jpg> <./Figures/983/983_SRGAN__ssim.jpg> <./Figures/983/983_cycleGAN.jpg> <./Figures/983/983_cycleGAN_ssim.jpg> <./Figures/983/983_DenseNet.jpg> <./Figures/983/983_densenet_ssim.jpg> <./Figures/983/983_RCAN.jpg> <./Figures/983/983_RCAN_ssim.jpg> <./Figures/983/983_proposed.jpg> <./Figures/983/983_proposed_ssim.jpg>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 578.
+
+(conference_101719.bbl
+Underfull \hbox (badness 6252) in paragraph at lines 86--90
+[]\OT1/ptm/m/n/8 Y. Al-mali-oglu, K. Bengisu Ozy-oruk, A. Gokce, K. In-c-etan,
+ []
+
+)
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[6] (conference_101719.aux) ) 
+Here is how much of TeX's memory you used:
+ 7068 strings out of 476331
+ 138664 string characters out of 5788237
+ 1888660 words of memory out of 5000000
+ 27393 multiletter control sequences out of 15000+600000
+ 552005 words of font info for 106 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 58i,10n,79p,2444b,286s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on conference_101719.pdf (6 pages, 1023213 bytes).
+PDF statistics:
+ 123 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
+
