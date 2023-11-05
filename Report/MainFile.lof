@@ -1,0 +1,42 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces The capsule movement in the gastro-intestinal track and also provides theglimpse of images captured by the capsule camera during its journey ingastrointestinal track}}{2}{}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces (a) Polyp, (b) Tumour (c) Hookworm (d) Celiac (e) Bubbles (f) Bleeding}}{2}{}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Recovering HR from its LR components}}{3}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Techniques used for Supervised Image Super Resolution}}{5}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Transpose Convolution}}{6}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Sub-pixel Layer}}{7}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Pre-upsampling architecture \cite {DLSR}}}{7}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Post-upsampling architecture \cite {DLSR}}}{8}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Various network designs in super-resolution architecture \cite {DLSR}}}{9}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Architectures of State of the Art Models \cite {DLSR}}}{9}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Architecture of SRGAN}}{10}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Architecture of CycleGAN}}{12}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces CycleGAN}}{13}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Architectures of different SR-Dense Models}}{13}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces The structure of one DenseNet block.}}{14}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Network Architecture of RCAN}}{15}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Upsampling Network of CycleCNN}}{16}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Downsampling Network of CycleCNN.}}{17}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Upsampling Network for Dense CycleCNN}}{18}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Downsampling Network for Dense CycleCNN}}{19}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Image in different colour spaces.}}{20}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces DCAN architecture}}{22}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Glimpse of uncropped capsule images}}{24}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Glimpse of Cropped dataset}}{24}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces SRGAN Generated Image and their SSIM maps: (1) HR image (2) Bicubic Interpolated image (3) SR image (4) SSIM-map (HR-Bicubic) (5)SSIM-map (HR-SR).\cite {DenseNET} \cite {SSIM}}}{26}{}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces CycleGAN Generated Image and their SSIM maps}}{27}{}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces SR Densenet Generated Image}}{28}{}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces RCAN generated images}}{29}{}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Images generated using MSE loss on CycleCNN Model.}}{30}{}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Images generated Dense CycleCNN Model with GRL Block.}}{31}{}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Images generated Dense CycleCNN Model with GRL Block on YCbCr.}}{32}{}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Images generated Dense CycleCNN Model with GRL Block on YCbCr with patch.}}{33}{}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Comparison of images of proposed network with State of Art models}}{34}{}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces SSIM maps for images generated form different models.}}{35}{}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces SSIM maps for images generated form different models.}}{36}{}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Patch Analysis}}{36}{}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Box plots for different models.}}{38}{}%

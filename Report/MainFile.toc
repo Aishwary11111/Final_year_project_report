@@ -1,0 +1,57 @@
+\hfill {\bf Page}
+\contentsline {chapter}{\textbf {Acknowledgements}}{iii}{}%
+\contentsline {chapter}{\textbf {Abstract}}{iv}{}%
+\contentsline {chapter}{\textbf {Table of Contents}}{v}{}%
+\contentsline {chapter}{\textbf {List of Figures}}{vi}{}%
+\contentsline {chapter}{\textbf {List of Tables}}{vii}{}%
+\contentsline {chapter}{\textbf {List of Abbreviations}}{viii}{}%
+\noindent {\bf Chapters}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {1.1}Capsule Endoscopy}{1}{}%
+\contentsline {section}{\numberline {1.2}Image Super Resolution}{3}{}%
+\contentsline {section}{\numberline {1.3}Motivation}{4}{}%
+\contentsline {section}{\numberline {1.4}Objective}{4}{}%
+\contentsline {section}{\numberline {1.5}Report outline}{4}{}%
+\contentsline {chapter}{\numberline {2}Literature review}{5}{}%
+\contentsline {section}{\numberline {2.1}Image Upsampling}{5}{}%
+\contentsline {subsection}{\numberline {2.1.1}Learning-based upsampling}{6}{}%
+\contentsline {section}{\numberline {2.2}Super-Resolution Frameworks}{7}{}%
+\contentsline {subsection}{\numberline {2.2.1}Network Design}{9}{}%
+\contentsline {section}{\numberline {2.3}State of the Art Models}{9}{}%
+\contentsline {chapter}{\numberline {3}State of The Art Models for Image Super Resolution}{10}{}%
+\contentsline {section}{\numberline {3.1}Super Resolution Generative Adversarial Network}{10}{}%
+\contentsline {section}{\numberline {3.2}Loss Function of SRGAN}{11}{}%
+\contentsline {subsection}{\numberline {3.2.1}Perceptual loss function}{11}{}%
+\contentsline {subsection}{\numberline {3.2.2}Content loss function}{11}{}%
+\contentsline {subsection}{\numberline {3.2.3}Adversarial loss function}{11}{}%
+\contentsline {section}{\numberline {3.3}CycleGAN}{11}{}%
+\contentsline {subsection}{\numberline {3.3.1}Loss in CycleGAN}{12}{}%
+\contentsline {subsubsection}{Adversarial Loss}{12}{}%
+\contentsline {subsubsection}{Cycle Consistency Loss}{12}{}%
+\contentsline {subsubsection}{Final Objective}{12}{}%
+\contentsline {section}{\numberline {3.4}SR Dense-Net}{13}{}%
+\contentsline {subsection}{\numberline {3.4.1}SR Dense-Net blocks}{14}{}%
+\contentsline {section}{\numberline {3.5}RCAN}{15}{}%
+\contentsline {chapter}{\numberline {4}Propsed Work}{16}{}%
+\contentsline {section}{\numberline {4.1}CycleCNN}{16}{}%
+\contentsline {subsection}{\numberline {4.1.1}CycleCNN-MSE}{17}{}%
+\contentsline {section}{\numberline {4.2}Dense CycleCNN with GRL Block}{18}{}%
+\contentsline {section}{\numberline {4.3}Dense CycleCNN with GRL block on YCbCr Colour space}{19}{}%
+\contentsline {subsection}{\numberline {4.3.1}Dense CycleCNN with GRL Block on Patch}{20}{}%
+\contentsline {section}{\numberline {4.4}DenseNET with Channel Attention Block (DCAN)}{21}{}%
+\contentsline {subsection}{\numberline {4.4.1}Architecture Details}{21}{}%
+\contentsline {chapter}{\numberline {5}Result analysis}{23}{}%
+\contentsline {section}{\numberline {5.1}Dataset}{23}{}%
+\contentsline {section}{\numberline {5.2}Experimental analysis on SOTA models}{24}{}%
+\contentsline {subsection}{\numberline {5.2.1}Training Details of SRGAN}{25}{}%
+\contentsline {subsection}{\numberline {5.2.2}Result of SRGAN}{25}{}%
+\contentsline {subsection}{\numberline {5.2.3}Training Details of CycleGAN}{26}{}%
+\contentsline {subsection}{\numberline {5.2.4}Results for CycleGAN}{26}{}%
+\contentsline {subsection}{\numberline {5.2.5}Training details of SR-Densenet}{27}{}%
+\contentsline {subsection}{\numberline {5.2.6}Training details of RCAN}{29}{}%
+\contentsline {subsection}{\numberline {5.2.7}Results of RCAN}{29}{}%
+\contentsline {section}{\numberline {5.3}Experimental Analysis on proposed models}{30}{}%
+\contentsline {subsection}{\numberline {5.3.1}DenseNET with Channel Attention Block(DCAN)}{34}{}%
+\contentsline {section}{\numberline {5.4}Quantitative Analysis}{37}{}%
+\contentsline {subsection}{\numberline {5.4.1}Statistical Analysis}{37}{}%
+\contentsline {chapter}{\textbf {References}}{40}{}%
