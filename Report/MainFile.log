@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.4.20)  5 NOV 2023 19:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.4.20)  5 NOV 2023 19:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -506,7 +506,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 d:/Final Year Proj/Report/Final_year_project_report/Report/MainFile.tex:73: Extra }, or forgotten $.
-\MakeTitlePage ...C), 8^{th} \textbf { Semester}}}
+\MakeTitlePage ...C), 7^{th} \textbf { Semester}}}
                                                   } \end {center} \vfill \be...
 l.73 \MakeTitlePage
                    
@@ -517,7 +517,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 d:/Final Year Proj/Report/Final_year_project_report/Report/MainFile.tex:73: Extra }, or forgotten $.
-\MakeTitlePage ...), 8^{th} \textbf { Semester}}}}
+\MakeTitlePage ...), 7^{th} \textbf { Semester}}}}
                                                    \end {center} \vfill \beg...
 l.73 \MakeTitlePage
                    
@@ -2188,7 +2188,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,16n,77p,1587b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on MainFile.pdf (49 pages, 3943040 bytes).
+Output written on MainFile.pdf (49 pages, 3942837 bytes).
 PDF statistics:
  335 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
